@@ -21,8 +21,3 @@ main::before {
     position: relative;
     z-index: 1; /* Ensure links are above the overlay */
 }
-@media only screen and (max-width: 600px){
-.dm{
-    margin-top: 20git add px;
-}
-}
